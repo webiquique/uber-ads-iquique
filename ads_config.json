@@ -2,21 +2,21 @@
   "ads": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/webiquique/uber-ads-iquique/main/images/anuncio1.jpg",
-      "duration": 5000,
-      "negocio": "Restaurante El Marino"
-    },
-    {
-      "type": "video",
-      "url": "https://raw.githubusercontent.com/webiquique/uber-ads-iquique/main/videos/anuncio3.mp4",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto1.jpg",
       "duration": 6000,
-      "negocio": "Gimnasio FitZone"
+      "negocio": "Negocio Ejemplo 1"
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/webiquique/uber-ads-iquique/main/images/anuncio2.jpg",
-      "duration": 5000,
-      "negocio": "Farmacia ZOFRI"
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto2.jpg",
+      "duration": 6000,
+      "negocio": "Negocio Ejemplo 2"
+    },
+    {
+      "type": "image",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto3.jpg",
+      "duration": 6000,
+      "negocio": "Negocio Ejemplo 3"
     }
   ],
   "version": "1.0",
