@@ -17,9 +17,15 @@
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto3.jpg",
       "duration": 6000,
       "negocio": "Farmacia ZOFRI"
+    },
+    {
+      "type": "video",
+      "url": "https://webiquique.github.io/uber-ads-iquique/videos/video2.mp4",
+      "duration": 6000,
+      "negocio": "Tour Iquique"
     }
-    
-  ]
+  ],
   "version": "2.0",
   "updated": "2024-01-15"
 }
+
