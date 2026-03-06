@@ -7,7 +7,7 @@
       "negocio": "Restaurante El Marino"
     },
     {
-      "type": "video",
+      "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto2.jpg",
       "duration": 6000,
       "negocio": "Gimnasio FitZone"
@@ -17,9 +17,9 @@
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto3.jpg",
       "duration": 6000,
       "negocio": "Farmacia ZOFRI"
-    },
+    }
     
-  ]
+  ],
   "version": "2.0",
   "updated": "2024-01-15"
 }
