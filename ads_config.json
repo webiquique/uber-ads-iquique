@@ -23,6 +23,12 @@
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto4.jpg",
       "duration": 6000,
       "negocio": "Tour Iquique"
+    },
+    {
+      "type": "image",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/adridecontrata.jpg",
+      "duration": 6000,
+      "negocio": "contrata"
     }
   ],
   "version": "2.0",
