@@ -3,35 +3,35 @@
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto1.jpg",
-      "duration": 6000,
+      "duration": 8000,
       "negocio": "Restaurante El Marino",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto2.jpg",
-      "duration": 6000,
+      "duration": 8000,
       "negocio": "Gimnasio FitZone",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto3.jpg",
-      "duration": 6000,
+      "duration": 8000,
       "negocio": "Farmacia ZOFRI",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/foto4.jpg",
-      "duration": 6000,
+      "duration": 8000,
       "negocio": "Tour Iquique",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/adridecontrataqr.jpg",
-      "duration": 6000,
+      "duration": 8000,
       "negocio": "contrata",
       "valor_campana_diario": 50000
     }
