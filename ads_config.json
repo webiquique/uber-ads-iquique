@@ -34,6 +34,13 @@
       "duration": 8000,
       "negocio": "contrata",
       "valor_campana_diario": 50000
+    },
+    {
+    "type": "video",
+    "url": "https://raw.githubusercontent.com/webiquique/uber-ads-iquique/main/videos/video1.mp4",
+    "duration": 15000,
+    "negocio": "Video Test",
+    "valor_campana_diario": 50000
     }
   ],
   "version": "3.0",
