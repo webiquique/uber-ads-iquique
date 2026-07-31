@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-31",
+  "fotos_turisticas": [
+    {
+      "id": 1,
+      "titulo": "Playa Cavancha",
+      "descripcion": "La playa urbana favorita de Iquique, con su microclima que permite bañarse todo el año.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/cavancha.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Plaza Prat y Torre del Reloj",
+      "descripcion": "El corazón histórico de la ciudad, con su emblemática Torre del Reloj de 1877.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/plaza_prat.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Teatro Municipal",
+      "descripcion": "Construido en 1889, tiene un cielo pintado a mano en plena época dorada del salitre.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/teatro_municipal.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Museo Corbeta Esmeralda",
+      "descripcion": "Réplica del buque de Arturo Prat, hundido en el Combate Naval de 1879.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/corbeta_esmeralda.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Cerro Dragón",
+      "descripcion": "La duna urbana más grande del planeta, un gigante de 4 km dentro de la ciudad.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/cerro_dragon.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Humberstone y Santa Laura",
+      "descripcion": "Las salitreras UNESCO que fueron el motor económico del desierto de Atacama.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/humberstone.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Paseo Baquedano",
+      "descripcion": "Calle peatonal con palacios de madera de pino Oregón, testigos del auge salitrero.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/baquedano.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Edificio de la Aduana",
+      "descripcion": "Frente al muelle, guarda la historia del puerto más importante del salitre.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/aduana_muelle.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Playa Brava",
+      "descripcion": "Olas de clase mundial, ideales para ver surfistas extremos en acción.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/playa_brava.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Fiesta de La Tirana",
+      "descripcion": "Cada julio, miles de diablos danzan en honor a la Virgen del Carmen de La Tirana.",
+      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/tirana.jpg"
+    }
+  ]
+}

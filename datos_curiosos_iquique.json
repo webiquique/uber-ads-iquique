@@ -1,13 +1,12 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "updated": "2026-07-31",
   "datos_curiosos": [
     {
       "id": 1,
       "titulo": "La duna urbana más grande",
       "contenido": "El Cerro Dragón mide unos 4 kilómetros de largo y es la duna urbana más grande de todo el planeta dentro de una ciudad.",
-      "emoji": "🐉",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/cerro_dragon.jpg"
+      "emoji": "🐉"
     },
     {
       "id": 2,
@@ -37,36 +36,31 @@
       "id": 6,
       "titulo": "Mansiones de pino Oregón",
       "contenido": "Los palacios coloniales de la calle Baquedano se construyeron con madera traída desde EE.UU. en barcos que venían a buscar salitre.",
-      "emoji": "🏠",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/baquedano.jpg"
+      "emoji": "🏠"
     },
     {
       "id": 7,
       "titulo": "La Boya de la Esmeralda",
       "contenido": "En el mar hay una boya que marca el lugar exacto donde se hundió la corbeta Esmeralda en el Combate Naval de 1879.",
-      "emoji": "⚓",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/corbeta_esmeralda.jpg"
+      "emoji": "⚓"
     },
     {
       "id": 8,
       "titulo": "Monumento del millonario",
       "contenido": "La famosa Torre del Reloj de la Plaza Prat fue donada por un millonario británico del salitre llamado Robert North en 1877.",
-      "emoji": "🕰️",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/plaza_prat.jpg"
+      "emoji": "🕰️"
     },
     {
       "id": 9,
       "titulo": "Teatro de lujo en el desierto",
       "contenido": "El Teatro Municipal de Iquique (1889) tiene un cielo pintado a mano y trajo óperas europeas en plena época de bonanza.",
-      "emoji": "🎭",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/teatro_municipal.jpg"
+      "emoji": "🎭"
     },
     {
       "id": 10,
       "titulo": "Fantasma de Humberstone",
       "contenido": "A solo 45 minutos están las salitreras Humberstone y Santa Laura, hoy un tenebroso y turístico pueblo fantasma protegido por la UNESCO.",
-      "emoji": "👻",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/humberstone.jpg"
+      "emoji": "👻"
     },
     {
       "id": 11,
@@ -84,8 +78,7 @@
       "id": 13,
       "titulo": "Playa para todo el año",
       "contenido": "La playa Cavancha tiene un microclima que permite bañarse incluso en pleno invierno.",
-      "emoji": "🏖️",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/cavancha.jpg"
+      "emoji": "🏖️"
     },
     {
       "id": 14,
@@ -97,8 +90,7 @@
       "id": 15,
       "titulo": "La fiesta religiosa más grande",
       "contenido": "Cada julio, miles de personas viajan al pueblo cercano de La Tirana para bailar con máscaras de diablos en honor a la Virgen.",
-      "emoji": "💃",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/tirana.jpg"
+      "emoji": "💃"
     },
     {
       "id": 16,
@@ -122,15 +114,13 @@
       "id": 19,
       "titulo": "Tercer puerto histórico",
       "contenido": "Durante el siglo XIX, Iquique llegó a ser uno de los puertos de carga más importantes del continente americano debido a la fiebre mundial por el fertilizante.",
-      "emoji": "🚢",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/aduana_muelle.jpg"
+      "emoji": "🚢"
     },
     {
       "id": 20,
       "titulo": "Surf de clase mundial",
       "contenido": "La ola conocida como El Colegio es una de las rompientes más grandes y peligrosas de Sudamérica, atrayendo a surfistas extremos de todo el globo.",
-      "emoji": "🏄",
-      "imagen": "https://webiquique.github.io/uber-ads-iquique/images/turismo/playa_brava.jpg"
+      "emoji": "🏄"
     }
   ]
 }
