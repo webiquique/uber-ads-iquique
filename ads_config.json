@@ -48,6 +48,13 @@
     "duration": 11250,
     "negocio": "Video Test",
     "valor_campana_diario": 50000
+    },
+    {
+      "type": "image",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/avisoimaginario.png",
+      "duration": 8000,
+      "negocio": "imaginario",
+      "valor_campana_diario": 50000
     }
   ],
   "version": "3.0",
