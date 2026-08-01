@@ -3,63 +3,60 @@
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/Axonconsultorias.png",
-      "duration": 8000,
+      "duration": 10000,
       "negocio": "Consultorias",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/milenkaaccesorios.png",
-      "duration": 8000,
+      "duration": 10000,
       "negocio": "Mileaccesorios",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/Ecohome.png",
-      "duration": 8000,
+      "duration": 10000,
       "negocio": "Ecohome",
       "valor_campana_diario": 50000
     },
     {
-    "type": "video",
-    "url": "https://webiquique.github.io/uber-ads-iquique/videos/coca1280800dos.mp4",
-    "duration": 9000,
-    "negocio": "Video coca",
-    "valor_campana_diario": 50000
+      "type": "video",
+      "url": "https://webiquique.github.io/uber-ads-iquique/videos/coca1280800dos.mp4",
+      "duration": 12000,
+      "negocio": "Video coca",
+      "valor_campana_diario": 50000
     },
-   
-
-{
+    {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/pixel.png",
-      "duration": 8000,
+      "duration": 10000,
       "negocio": "Pixel3D",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/adridecontrataqr.png",
-      "duration": 8000,
+      "duration": 10000,
       "negocio": "contrata",
       "valor_campana_diario": 50000
     },
     {
-    "type": "video",
-    "url": "https://webiquique.github.io/uber-ads-iquique/videos/mcrecortado.mp4",
-    "duration": 9000,
-    "negocio": "Video Test",
-    "valor_campana_diario": 50000
+      "type": "video",
+      "url": "https://webiquique.github.io/uber-ads-iquique/videos/mcrecortado.mp4",
+      "duration": 12000,
+      "negocio": "Video Test",
+      "valor_campana_diario": 50000
     },
     {
       "type": "image",
       "url": "https://webiquique.github.io/uber-ads-iquique/images/rephogar.png",
-      "duration": 8000,
+      "duration": 10000,
       "negocio": "Reparaciones",
       "valor_campana_diario": 50000
     }
-
   ],
-  "version": "3.0",
-  "updated": "2026-03-16"
+  "version": "3.1",
+  "updated": "2026-07-31"
 }
