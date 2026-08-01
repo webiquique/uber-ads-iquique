@@ -2,23 +2,23 @@
   "ads": [
     {
       "type": "image",
-      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto1.jpg",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/Axonconsultorias.png",
       "duration": 8000,
-      "negocio": "Restaurante El Marino",
+      "negocio": "Consultorias",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
-      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto2.jpg",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/milenkaaccesorios.png",
       "duration": 8000,
-      "negocio": "Gimnasio FitZone",
+      "negocio": "Mileaccesorios",
       "valor_campana_diario": 50000
     },
     {
       "type": "image",
-      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto3.jpg",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/Ecohome.png",
       "duration": 8000,
-      "negocio": "Farmacia ZOFRI",
+      "negocio": "Ecohome",
       "valor_campana_diario": 50000
     },
     {
@@ -28,11 +28,13 @@
     "negocio": "Video coca",
     "valor_campana_diario": 50000
     },
-    {
+   
+
+{
       "type": "image",
-      "url": "https://webiquique.github.io/uber-ads-iquique/images/foto4.jpg",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/pixel.png",
       "duration": 8000,
-      "negocio": "Tour Iquique",
+      "negocio": "Pixel3D",
       "valor_campana_diario": 50000
     },
     {
@@ -51,11 +53,12 @@
     },
     {
       "type": "image",
-      "url": "https://webiquique.github.io/uber-ads-iquique/images/avisoimaginario.png",
+      "url": "https://webiquique.github.io/uber-ads-iquique/images/rephogar.png",
       "duration": 8000,
-      "negocio": "imaginario",
+      "negocio": "Reparaciones",
       "valor_campana_diario": 50000
     }
+
   ],
   "version": "3.0",
   "updated": "2026-03-16"
