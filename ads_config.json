@@ -24,7 +24,7 @@
     {
     "type": "video",
     "url": "https://webiquique.github.io/uber-ads-iquique/videos/coca1280800dos.mp4",
-    "duration": 8000,
+    "duration": 9000,
     "negocio": "Video coca",
     "valor_campana_diario": 50000
     },
@@ -47,7 +47,7 @@
     {
     "type": "video",
     "url": "https://webiquique.github.io/uber-ads-iquique/videos/mcrecortado.mp4",
-    "duration": 8000,
+    "duration": 9000,
     "negocio": "Video Test",
     "valor_campana_diario": 50000
     },
